@@ -1,0 +1,7 @@
+I"d(function() {
+  var dashboard;
+
+  dashboard = angular.module('dashboard', []);
+
+}).call(this);
+:ET
